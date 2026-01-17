@@ -39,7 +39,7 @@ Syncroh2 / 新旧朗2 の配布ファイル一覧です。
 
 ### ダウンロード
 
-  👉 [新旧朗2 V1.10 Beta 26 AviUtl2 Beta25用](files/Syncroh2_v2.0.0_win64.zip)
+  👉 [新旧朗2 V1.10 Beta 26 AviUtl2 Beta25用](files/Syncroh2_Desktop.zip)
 
 
 
