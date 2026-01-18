@@ -5,7 +5,7 @@ AviUtl2のプラグインとAviUtl2の操作を補助するアプリで構成さ
 
 - [ダウンロード](download.md)
 - [ToDo / 既知の不具合](todo)
-- [update / 更新履歴](update)
+- [history / 更新履歴](history)
 
 ---
 
