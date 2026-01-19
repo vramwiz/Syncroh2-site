@@ -92,6 +92,8 @@ Syncroh_Desktopを実行します。
 
 ---
 
+https://vramwiz.github.io/Syncroh2-site/
+
 ## 🧑‍💻 作者
 
 Created by **VRAMの魔術師**  
