@@ -3,6 +3,7 @@
 AviUtl2でPSDファイル形式の立ち絵が使えるようになります。
 AviUtl2のプラグインとAviUtl2の操作を補助するアプリで構成されています。
 
+- [[セリフ機能](serif.md)]
 - [ダウンロード](download.md)
 - [ToDo / 既知の不具合](todo)
 - [history / 更新履歴](history)
