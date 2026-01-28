@@ -18,7 +18,7 @@ Syncroh2 / 新旧朗2 の配布ファイル一覧です。
 ### ダウンロード
 
 - Windows 64bit  
-  👉 [新旧朗2 セットアップ V1.11 Beta 27 AviUtl2 Beta25用
+  👉 [新旧朗2 セットアップ V1.11 Beta 27 AviUtl2 Beta29用
 ](files\Syncroh2_Setup.zip)
 
 ### 注意事項
@@ -39,7 +39,7 @@ Syncroh2 / 新旧朗2 の配布ファイル一覧です。
 
 ### ダウンロード
 
-  👉 [新旧朗2 V1.11 Beta 27 AviUtl2 Beta25用](files/Syncroh2_Desktop.zip)
+  👉 [新旧朗2 V1.11 Beta 27 AviUtl2 Beta29用](files/Syncroh2_Desktop.zip)
 
 
 
