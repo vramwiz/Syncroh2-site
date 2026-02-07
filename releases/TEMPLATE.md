@@ -1,11 +1,12 @@
 ﻿# 新旧朗2 1.13 Beta 33
 date: 2026-02-07
 aviutl: Beta29
+release_url: https://github.com/OWNER/REPO/releases/tag/v1.13-beta33
 
-## 要約（X本文向け）
-- PSD読み込み安定化
-- サンプルの処理速度を改善
-- 既知クラッシュを修正
+## X用変更点
+- 入力動画のFPS値が正常ではない場合がある問題の修正
+- 入力動画の長さが短くなってしまう場合がある問題の修正
+- 連続ドラッグ&ドロップ時の安定性を改善
 
 ## 変更詳細（サイト向け）
 ### 追加
@@ -18,5 +19,5 @@ aviutl: Beta29
 - ここに既知の問題
 
 ## ダウンロード
-- Setup: files/Syncroh2_Setup.zip
-- Desktop: files/Syncroh2_Desktop.zip
+- Setup: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Setup.zip
+- Desktop: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Desktop.zip

@@ -1,0 +1,8 @@
+新旧朗2 1.13 Beta 33 公開
+
+・PSD読み込み時の安定性を改善
+・連続ドラッグ&ドロップ時の処理を高速化
+・一部環境でのクラッシュを修正
+
+DL: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Desktop.zip
+#新旧朗2 #AviUtl2

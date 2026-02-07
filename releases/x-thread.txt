@@ -1,0 +1,28 @@
+新旧朗2 1.13 Beta 33 公開
+
+要点:
+・PSD読み込み時の安定性を改善
+・連続ドラッグ&ドロップ時の処理を高速化
+・一部環境でのクラッシュを修正
+#新旧朗2 #AviUtl2
+
+---
+
+変更詳細
+
+追加:
+・大きいPSDの読み込み進捗表示を追加
+・ログに読み込み時間の表示を追加
+
+修正:
+・連続D&D時にまれに停止する問題を修正
+・レイヤー名に記号を含む場合の表示崩れを修正
+
+---
+
+ダウンロード
+・Setup: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Setup.zip
+・Desktop: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Desktop.zip
+
+既知の問題:
+・まれに初回起動が遅い場合があります
