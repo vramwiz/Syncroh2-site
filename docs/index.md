@@ -5,7 +5,8 @@ AviUtl2のプラグインとAviUtl2の操作を補助するアプリで構成さ
 
 
 - [インストール](install.md)
-- [ファイル構成]()
+- [ファイル構成](installfiles.md)
+- [起動方法](docs\boot.md)
 - [セリフ機能](serif.md)
 - [ダウンロード](download.md)
 - [ToDo / 既知の不具合](todo)
