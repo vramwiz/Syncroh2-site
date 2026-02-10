@@ -9,6 +9,7 @@ AviUtl2のプラグインとAviUtl2の操作を補助するアプリで構成さ
 - [起動方法](boot.md)
 - [立ち絵ツール](chara.md)
 - [セリフツール](serif.md)
+- [エクスプローラーツール](explorer.md)
 - [ダウンロード](download.md)
 - [ToDo / 既知の不具合](todo)
 - [history / 更新履歴](history)
