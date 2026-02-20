@@ -1,18 +1,22 @@
 # 新旧朗2
 
-AviUtl2でPSDファイル形式の立ち絵が使えるようになります。
-AviUtl2のプラグインとAviUtl2の操作を補助するアプリで構成されています。
-
+AviUtl2で立ち絵の表示、セリフの流し込み、専用エクスプローラー、音楽関係のツールが使えるようになります。
 
 - [インストール](install.md)
 - [ファイル構成](installfiles.md)
+- [ダウンロード](download.md)
+- [ToDo / 既知の不具合](todo)
+- [history / 更新履歴](history)
+
+
+新旧朗2には以下の機能があります。
+
+
 - [起動方法](boot.md)
 - [立ち絵ツール](chara.md)
 - [セリフツール](serif.md)
 - [エクスプローラーツール](explorer.md)
-- [ダウンロード](download.md)
-- [ToDo / 既知の不具合](todo)
-- [history / 更新履歴](history)
+- [音楽](../music.md)
 
 ---
 
