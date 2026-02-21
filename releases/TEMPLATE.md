@@ -1,23 +1,33 @@
-﻿# 新旧朗2 1.13 Beta 33
-date: 2026-02-07
+﻿# Syncroh2 v1.2.0
+
+date: 2026-02-21
+tag: v1.2.0
+channel: stable
 aviutl: Beta29
-release_url: https://github.com/OWNER/REPO/releases/tag/v1.13-beta33
+release_url: https://github.com/vramwiz/Syncroh2-site/releases/tag/v1.2.0
 
-## X用変更点
-- 入力動画のFPS値が正常ではない場合がある問題の修正
-- 入力動画の長さが短くなってしまう場合がある問題の修正
-- 連続ドラッグ&ドロップ時の安定性を改善
+## 概要
+- 今回の更新の要点を 1-3 行で記載
 
-## 変更詳細（サイト向け）
-### 追加
+## 追加
 - ここに追加内容
 
-### 修正
+## 改善
+- ここに改善内容
+
+## 修正
 - ここに修正内容
 
-### 既知の問題
+## 破壊的変更 / 注意点
+- なし
+
+## 既知の問題
 - ここに既知の問題
 
+## カタログ対応
+- AviUtl2カタログは GitHub Releases を約30分ごとに監視して更新を検出
+- pre-release の場合は `channel: beta` に変更して公開する
+
 ## ダウンロード
-- Setup: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Setup.zip
-- Desktop: https://vramwiz.github.io/Syncroh2-site/files/Syncroh2_Desktop.zip
+- Setup: Syncroh2_Setup.exe
+- Desktop: Syncroh2_Desktop_v1.2.0.zip

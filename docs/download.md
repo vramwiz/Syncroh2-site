@@ -1,64 +1,48 @@
 ﻿# ダウンロード
 
-Syncroh2 / 新旧朗2 の配布ファイル一覧です。  
-用途に応じて **インストーラー版** または **圧縮 zip 版** を選択してください。
+Syncroh2 / 新旧朗2 の正式な配布は **GitHub Releases** で行います。  
+インストーラー版（exe）と圧縮版（zip）は、各リリースページの Assets から取得してください。
 
----
+## 配布ページ
 
-## 新旧朗2（インストーラー版）
+- 最新版（stable / pre-release 含む）  
+  👉 <https://github.com/vramwiz/Syncroh2-site/releases>
+- 最新の正式版（latest）  
+  👉 <https://github.com/vramwiz/Syncroh2-site/releases/latest>
 
-こちらは **セットアップ形式（exe）** の配布です。  
-初めて利用される方、環境構築を簡単に行いたい方におすすめです。
+## 配布物
 
-### 特徴
-- インストーラー形式（セットアップあり）
-- スタートメニューに登録されます
-- アンインストールが可能です
+- インストーラー版（exe）  
+  👉 <https://github.com/vramwiz/Syncroh2-site/releases/latest/download/Syncroh2_Setup.exe>
+- 手動セットアップ版（zip）  
+  👉 <https://github.com/vramwiz/Syncroh2-site/releases/latest/download/Syncroh2_Desktop.zip>
+- セットアップ圧縮版（zip）  
+  👉 <https://github.com/vramwiz/Syncroh2-site/releases/latest/download/Syncroh2_Setup.zip>
 
-### ダウンロード
+## 保存場所（管理方法）
 
-- Windows 64bit  
-  👉 [新旧朗2 セットアップ 新旧朗2 1.2e Beta 39 AviUtl2 Beta29用](files\Syncroh2_Setup.zip)
+- 配布ファイルの正本は **GitHub Releases の Assets** に保存します
+- 各バージョンごとにタグを作成し、そのタグに対応する `exe` / `zip` を添付します
+- 最新版の案内は `releases/latest` を使用します
+- サイト内ファイル直置きの旧方式は廃止し、正式配布は Releases のみとします
 
-### 注意事項
-- 管理者権限が必要な場合があります
-- 既存バージョンがある場合は上書きインストールされます
+## インストーラー版について
 
----
+- インストール先は ProgramData 配下固定です（現行仕様）
+- スタートメニュー登録・アンインストールに対応
+- 既存環境がある場合は上書きインストールされます
 
-## Syncroh2（圧縮 zip 版）
+## zip 版について
 
-こちらは **zip 圧縮形式** の配布です。  
-ポータブル利用、手動配置、開発・検証用途に向いています。
+- インストール不要のポータブル構成です
+- 任意のフォルダに展開して実行できます
 
-### 特徴
-- インストール不要
-- 任意のフォルダに展開して使用可能
-- レジストリは使用しません
+## AviUtl2カタログ連携
 
-### ダウンロード
-
-  👉 [新旧朗2 新旧朗2 1.2e Beta 39 AviUtl2 Beta29用](files/Syncroh2_Desktop.zip)
-
-
-
-### 使用方法
-1. zip ファイルを任意のフォルダに解凍してください
-2. 解凍後、実行ファイルを直接起動できます
-
----
-
-## どちらを選べばよいか分からない場合
-
-- **初めて使う / 簡単に使いたい**  
-  → 新旧朗2（インストーラー版）
-
-- **既存環境に組み込みたい / ポータブル利用**  
-  → Syncroh2（圧縮 zip 版）
-
----
+- AviUtl2カタログ側は GitHub Releases を約30分ごとに監視して更新を検出します
+- そのため、今後の更新経路はカタログ登録経由ではなく Releases を基準とします
 
 ## 更新履歴・既知の不具合
 
-- 更新内容については [更新履歴](update) をご覧ください
-- 既知の問題については [ToDo / 既知の不具合](todo) をご確認ください
+- 更新内容については [history / 更新履歴](history.md) をご覧ください
+- 既知の問題については [ToDo / 既知の不具合](todo.md) をご確認ください
