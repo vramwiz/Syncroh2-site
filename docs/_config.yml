@@ -1,0 +1,15 @@
+title: 新旧朗2
+description: AviUtl2向けの立ち絵・セリフ・音楽連携ツール
+lang: ja_JP
+
+url: "https://vramwiz.github.io"
+baseurl: "/Syncroh2-site"
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/images/chara/clipboard_20260208_133221_048.png"

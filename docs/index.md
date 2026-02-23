@@ -1,3 +1,9 @@
+---
+title: 新旧朗2
+description: AviUtl2向けの立ち絵・セリフ・音楽連携ツール
+image: /images/chara/clipboard_20260208_133221_048.png
+---
+
 # 新旧朗2
 
 AviUtl2で立ち絵の表示、セリフの流し込み、専用エクスプローラー、音楽関係のツールが使えるようになります。
