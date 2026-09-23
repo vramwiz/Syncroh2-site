@@ -10,3 +10,6 @@ __history/
 *.tds 
 *.dsk 
 .DS_Store 
+
+# GitHub Pages で公開する実行ファイル
+!docs/files/*.exe

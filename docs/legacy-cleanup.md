@@ -10,15 +10,19 @@ description: 旧 Inno Setup 版の新旧朗2から AviUtl2 カタログ版へ移
 
 ## ダウンロード
 
-[新旧朗2 旧版ファイル削除ツール（ZIP）](files/Syncroh2_LegacyCleanup.zip)
+- [EXE を直接ダウンロード](files/Syncroh2_LegacyCleanup.exe)
+- [ZIP をダウンロード](files/Syncroh2_LegacyCleanup.zip)
 
-SHA-256: `85C8A4049586CD1B39F4FE619C088065A3E35C1778355AE74FCE54D6BB7F5276`
+SHA-256:
+
+- EXE: `9A4A7ECD104D3BD2CDB087A420630BF222D345A95EE9914F80B580B2916C6B86`
+- ZIP: `85C8A4049586CD1B39F4FE619C088065A3E35C1778355AE74FCE54D6BB7F5276`
 
 ## 実行手順
 
 1. AviUtl2 と新旧朗2を終了します。
 2. カタログ版をインストール済みの場合は、先に AviUtl2 カタログからアンインストールします。
-3. ZIP を展開し、`Syncroh2_LegacyCleanup.exe` を実行します。Windows が管理者権限を求めたら確認してください。
+3. EXE を直接ダウンロードするか、ZIP を展開して `Syncroh2_LegacyCleanup.exe` を実行します。Windows が管理者権限を求めたら確認してください。
 4. 画面に表示される削除対象を確認して「削除」を押します。
 5. 完了後、必要に応じて AviUtl2 カタログから新旧朗2をインストールします。
 
