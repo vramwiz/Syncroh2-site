@@ -11,6 +11,7 @@ AviUtl2で立ち絵の表示、セリフの流し込み、専用エクスプロ�
 - [インストール](install.md)
 - [ファイル構成](installfiles.md)
 - [ダウンロード](download.md)
+- [旧版ファイル削除ツール](legacy-cleanup.html)
 - [ToDo / 既知の不具合](todo)
 - [history / 更新履歴](history)
 
