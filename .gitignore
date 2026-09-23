@@ -11,5 +11,6 @@ __history/
 *.dsk 
 .DS_Store 
 
-# GitHub Pages で公開する実行ファイル
+# 公開用の実行ファイル
 !docs/files/*.exe
+!files/Syncroh2_LegacyCleanup.exe
